@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mewg97ibmpab71v8?svg=true)](https://ci.appveyor.com/project/florresa/netology-autotesting-lesson-5)
